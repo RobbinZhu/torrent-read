@@ -1,0 +1,14 @@
+{
+  "name": "torrent-read",
+  "version": "1.0.0",
+  "description": "The simplest torrent file parser.",
+  "repository": "https://github.com/RobbinZhu/torrent-read.git",
+  "main": "index.js",
+  "keywords": [
+    "Torrent",
+    "Bencoding",
+    "BitTorrent"
+  ],
+  "author": "Robbin.Zhu",
+  "license": "ISC"
+}
